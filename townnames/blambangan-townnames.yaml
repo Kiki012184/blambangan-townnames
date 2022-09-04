@@ -1,7 +1,57 @@
 available: false
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Pesanggaran
+    probability: 1
+  - name: 'Bangorejo '
+    probability: 1
+  - name: 'Purwoharjo '
+    probability: 1
+  - name: 'Tegaldlimo '
+    probability: 1
+  - name: 'Muncar '
+    probability: 1
+  - name: 'Cluring '
+    probability: 1
+  - name: 'Gambiran '
+    probability: 1
+  - name: Srono
+    probability: 1
+  - name: 'Genteng '
+    probability: 1
+  - name: Glenmore
+    probability: 1
+  - name: 'Kalibaru '
+    probability: 1
+  - name: 'Singojuruh '
+    probability: 1
+  - name: 'Rogojampi '
+    probability: 1
+  - name: Kabat
+    probability: 1
+  - name: Glagah
+    probability: 1
+  - name: 'Banyuwangi '
+    probability: 5
+  - name: Giri
+    probability: 1
+  - name: 'Wongsorejo '
+    probability: 1
+  - name: Soggon
+    probability: 1
+  - name: Sempu
+    probability: 1
+  - name: Kalipuro
+    probability: 1
+  - name: 'Siliragung '
+    probability: 1
+  - name: 'Tegalsari '
+    probability: 1
+  - name: Licin
+    probability: 1
+  - name: 'Blimbingsari '
+    probability: 1
 name: 'Blambangan Townnames '
 source: 'Wikipedia '
 subsets: []
